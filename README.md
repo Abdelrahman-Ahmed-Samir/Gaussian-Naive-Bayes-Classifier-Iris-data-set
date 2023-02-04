@@ -1,6 +1,6 @@
 # Gaussian-Naive-Bayes-Classifier-Iris-data-set
 
--Supervised Machine Learning (Regression)
+-Supervised Machine Learning (Classification)
 
 -In this Machine Learning Model , We used the Gaussian-Naive-Bayes-Classifier and the built-in iris dataset from sklearn.datasets.
 
