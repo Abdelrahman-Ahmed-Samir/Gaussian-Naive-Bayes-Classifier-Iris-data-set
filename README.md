@@ -1,5 +1,7 @@
 # Gaussian-Naive-Bayes-Classifier-Iris-data-set
 
+-Supervised Machine Learning (Regression)
+
 -In this Machine Learning Model , We used the Gaussian-Naive-Bayes-Classifier and the built-in iris dataset from sklearn.datasets.
 
 -The purpose of this project was to create the train-test split function from scratch and not just that but to split the data into 3 parts:
