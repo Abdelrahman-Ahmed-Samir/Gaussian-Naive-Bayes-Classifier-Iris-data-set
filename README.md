@@ -31,3 +31,6 @@ train set = 80%
 -We also built the Accuracy function from scratch.
 
 -You will the find also the Data plotted to help you understand more.
+
+
+You can reach me via E-Mail:bedosamir48@gmail.com
